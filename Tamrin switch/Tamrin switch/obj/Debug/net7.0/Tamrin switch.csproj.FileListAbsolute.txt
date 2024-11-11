@@ -1,0 +1,30 @@
+F:\تمربن\Tamrin switch\Tamrin switch\bin\Debug\net7.0\Tamrin switch.exe
+F:\تمربن\Tamrin switch\Tamrin switch\bin\Debug\net7.0\Tamrin switch.deps.json
+F:\تمربن\Tamrin switch\Tamrin switch\bin\Debug\net7.0\Tamrin switch.runtimeconfig.json
+F:\تمربن\Tamrin switch\Tamrin switch\bin\Debug\net7.0\Tamrin switch.dll
+F:\تمربن\Tamrin switch\Tamrin switch\bin\Debug\net7.0\Tamrin switch.pdb
+F:\تمربن\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.csproj.AssemblyReference.cache
+F:\تمربن\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.GeneratedMSBuildEditorConfig.editorconfig
+F:\تمربن\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.AssemblyInfoInputs.cache
+F:\تمربن\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.AssemblyInfo.cs
+F:\تمربن\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.csproj.CoreCompileInputs.cache
+F:\تمربن\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.dll
+F:\تمربن\Tamrin switch\Tamrin switch\obj\Debug\net7.0\refint\Tamrin switch.dll
+F:\تمربن\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.pdb
+F:\تمربن\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.genruntimeconfig.cache
+F:\تمربن\Tamrin switch\Tamrin switch\obj\Debug\net7.0\ref\Tamrin switch.dll
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\bin\Debug\net7.0\Tamrin switch.exe
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\bin\Debug\net7.0\Tamrin switch.deps.json
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\bin\Debug\net7.0\Tamrin switch.runtimeconfig.json
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\bin\Debug\net7.0\Tamrin switch.dll
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\bin\Debug\net7.0\Tamrin switch.pdb
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.csproj.AssemblyReference.cache
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.GeneratedMSBuildEditorConfig.editorconfig
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.AssemblyInfoInputs.cache
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.AssemblyInfo.cs
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.csproj.CoreCompileInputs.cache
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.dll
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\obj\Debug\net7.0\refint\Tamrin switch.dll
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.pdb
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\obj\Debug\net7.0\Tamrin switch.genruntimeconfig.cache
+F:\دانشگاه\ترم 1\برنامه سازی پیشرفته 1\Tamrin switch\Tamrin switch\obj\Debug\net7.0\ref\Tamrin switch.dll
